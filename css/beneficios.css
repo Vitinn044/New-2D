@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f1f1f1;  
+    background: linear-gradient(to left, #FF0000, #FFFFFF  )
   }
 
   .button-container {
@@ -78,7 +79,7 @@ body {
 }
 
 .obss {
-    color: red;
+    color: #8d00f2  ;
 }
 
   .footer {
